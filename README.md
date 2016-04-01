@@ -8,11 +8,11 @@ Live URL Link: https://techee-contact.herokuapp.com/
 
 ## Info:
 
-This is simple contact manager create by using angular and angular-material and this is first try in angular material
+This is a simple contact manager created by using angular and angular-material and this is my first try in angular material
 
-If you want to download this just click download zip on top right corner
+If you want to download this project just click download zip on top right corner 
 
-Or clone use below command
+Or clone project use below command as your wish
 
 ``` bash
 git clone https://github.com/PraveenJP/techee-contact.git
