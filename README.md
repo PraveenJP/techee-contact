@@ -2,8 +2,6 @@ Techee Contact
 ========================================
 ## Techee Contact with Angular &amp; Angular-Material
 
-Live URL Link: https://techee-contact.herokuapp.com/
-
 ![alt tag](https://raw.githubusercontent.com/PraveenJP/techee-contact/master/app/assets/img/Screenshot.PNG)
 
 ## Info:
